@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1650430869 source:c:\users\acer\desktop\examen\examen\taskmanager\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	"proceso.h"
+	"list.h"
+
+1650410520 source:c:\users\acer\desktop\examen\examen\taskmanager\src\proceso.cpp
+	"proceso.h"
+	<windows.h>
+	<ostream>
+
+1650410214 c:\users\acer\desktop\examen\examen\taskmanager\include\proceso.h
+	<iostream>
+	<string>
+
+1650430846 c:\users\acer\desktop\examen\examen\taskmanager\list.h
+	"proceso.h"
+
+1650937733 source:c:\users\acer\desktop\examen\preuba\taskmanager\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	"proceso.h"
+	"list.h"
+
+1650935049 c:\users\acer\desktop\examen\preuba\taskmanager\include\proceso.h
+	<iostream>
+	<string>
+
+1651031295 c:\users\acer\desktop\examen\preuba\taskmanager\list.h
+	<algorithm>
+	"proceso.h"
+
+1650937796 source:c:\users\acer\desktop\examen\preuba\taskmanager\src\proceso.cpp
+	"proceso.h"
+	<windows.h>
+	<ostream>
+
+1651765845 source:c:\users\acer\desktop\examen\preubacontador\taskmanager\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	"proceso.h"
+	"list.h"
+	"Contador.h"
+	<time.h>
+
+1651725244 c:\users\acer\desktop\examen\preubacontador\taskmanager\include\proceso.h
+	<iostream>
+	<string>
+
+1651768830 c:\users\acer\desktop\examen\preubacontador\taskmanager\list.h
+	<algorithm>
+	"proceso.h"
+	"Contador.h"
+
+1651725173 source:c:\users\acer\desktop\examen\preubacontador\taskmanager\src\proceso.cpp
+	"proceso.h"
+	<windows.h>
+	<ostream>
+
+1651117688 source:c:\users\acer\desktop\examen\preubacontador\taskmanager\src\contador.cpp
+	"Contador.h"
+	<ostream>
+
+1651102229 c:\users\acer\desktop\examen\preubacontador\taskmanager\include\contador.h
+	<string>
+	<iostream>
+
+1651765845 source:c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	"proceso.h"
+	"list.h"
+	"Contador.h"
+	<time.h>
+
+1651725244 c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\include\proceso.h
+	<iostream>
+	<string>
+
+1651768830 c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\list.h
+	<algorithm>
+	"proceso.h"
+	"Contador.h"
+
+1651102229 c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\include\contador.h
+	<string>
+	<iostream>
+
+1651117688 source:c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\src\contador.cpp
+	"Contador.h"
+	<ostream>
+
+1651725173 source:c:\users\cejac\desktop\cucei 7\computacion tolerante\taskmanager\taskmanager\src\proceso.cpp
+	"proceso.h"
+	<windows.h>
+	<ostream>
+
